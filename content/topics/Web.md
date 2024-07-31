@@ -6,13 +6,11 @@ sidebarTitle: Web Work
 sidebarIcon: box about-me
 ---
 
-Well the web has not been my main specialty for many years; simply because of old style javascript work back in the day was very much difficult and frustrating due to how unstable web standards were (im dateing myself) 
+Web development hasn't been my primary focus for many years, largely due to the challenges and frustrations I experienced with early JavaScript work and unstable web standards (I'm dating myself here). However, the advent of modern browsers like WebKit and Chromium has stabilized these standards, creating new opportunities for developing amazing web applications.
 
-Today thanks to WebKit and Chromium things are much more calmer; bringing opportunities to make amazing web applications. 
+Today, web applications are a blend of excellent UX, standardized UI design, and accelerated DOM rendering. I began working with React in 2020 and was impressed by the rendering speeds and efficiency it offered. Currently, I'm using Next.js for my personal projects, but I'm also keeping an eye on emerging technologies like Remix, HTMX with GO, and WebAssembly (Wasm) with Rust. 
 
-Web Applications are now a combination of Great UX, UI Standards and accelerated DOM
-
-I started working with React in 2020. The rendering speeds blew me away. Currently im working with NextJS on my personal projects, however remix, htmx and wasm with rust are lately on my radar, but i will wait for a little longer until it becomes more a thing if ever... 
+While these are exciting developments, I plan to wait a bit longer before diving into them fully, to see how they mature and fit into the broader web development landscape. 
 
 ### Script Languages
 

@@ -7,23 +7,26 @@ sidebarIcon: box about-me
 
 ---
 
-In the last 5 years or so, I have been working with AWS a lot. My main responsabilies varied from developer to software designer/architect and infrastructure developer.
+In the past five years, I have extensively worked with AWS. My responsibilities have spanned across roles, including developer, software designer/architect, and infrastructure developer.
 
 The lists below represent my experience with AWS
 
 ### Script Languages
 
-I specialized in python more so than Node due to its speed I have worked with python since the early days around 2002 (game development) however I took a break and came back in the late 2010s and used its later iterations for enterprise development
+I have specialized in Python, favoring it over Node.js due to its speed and versatility. My experience with Python dates back to the early 2000s, where I initially used it for game development. After a hiatus, I returned to Python in the late 2010s, leveraging its advanced features for enterprise development.
 
-Some Apis I have used (the list is infinite so i will state only the common ones used today):
-**Requests**
-**Flask**
-**Boto3**
-**FastAPI**
-**Math**
-**Numpy**
-**Pillow**
-**OpenAI**
+Some of the APIs and libraries I've commonly used include:
+- Requests
+- Flask
+- Boto3
+- FastAPI
+- Math
+- Numpy
+- Pillow
+- OpenAI
+
+This list is not exhaustive, as my experience spans a broad range of tools and technologies.
+
 
 | Script Language  |       | Total Years used | Active |
 | :----------------- | :--------------- | ------: |------: |
@@ -31,9 +34,10 @@ Some Apis I have used (the list is infinite so i will state only the common ones
 | Python 3         |      | 6 | ✅ |
 | Node         |      | 2 | ✅ |
 
+
 ### Authentication
 
-In some cases there have been clients/employers that have requested bespoke authorization frameworks. Keeping to the standard OAuth I have been able to work with several tools according to strategic needs of the case, items such as privacy, development cost and infrastructure cost have always been determining factors
+In some instances, clients or employers have requested custom authorization frameworks. While adhering to the standard OAuth protocol, I have worked with various tools tailored to the strategic needs of each case. Factors such as privacy, development cost, and infrastructure cost have always been critical in determining the appropriate approach.
 
 | Auth System  |       | Total Years used | Active |
 | :----------------- | :--------------- | ------: |------: |
@@ -46,9 +50,10 @@ In some cases there have been clients/employers that have requested bespoke auth
 
 
 
+
 ### AWS APIS
 
-My work has revolved around development using the Boto3 Python library
+My work has primarily focused on development using the Boto3 Python library.
 
 | Service  |       | Total Years used | Active |
 | :----------------- | :--------------- | ------: |------: |
@@ -57,7 +62,7 @@ My work has revolved around development using the Boto3 Python library
 
 ### AWS Services 
 
-Working with AWS gave me the oportunity to work with several of the services the platform offers, making discovery of new services a very exciting and engaging experience; I tried to with as much as I could that was geard toward business fulfillment of requirements 
+Working with AWS provided me the opportunity to explore a wide range of services offered by the platform. Discovering new services has been an exciting and engaging experience, as I aimed to utilize as many tools as possible to meet business requirements effectively. 
 
 | Service                |       | Total Years used | Active |
 | :--------------------- | :---- | ----------------:| ------:|

@@ -9,10 +9,10 @@ sidebarIcon: box about-me
 
 ## Notes on Mobile Development
 
-Mobile development has always been part of my professional formation; I specialized early on on development of iPhone apps using my prior knowledge of Objective_C from back in my app development days; when google's material design became stable I begun working with android.
+Mobile development has been a key aspect of my professional growth. I initially specialized in developing iPhone apps, leveraging my prior experience with Objective-C from my earlier app development days. As Google's Material Design matured, I expanded my skills to include Android development.
 
-Google Flutter 
-I saw in flutter a great way of taking advantage of my hardware specific api skills to augment classic flutter apps with hardware specific requirements needed at the earliest days of that platform
+Google Flutter presented a unique opportunity to leverage my hardware-specific API skills to enhance classic Flutter apps. I utilized these skills to address hardware-specific requirements, particularly during the early stages of the platform's development.
+
 
 | Script/Language  |       | Total Years used | Active |
 | :----------------- | :--------------- | ------: |------: |
@@ -26,11 +26,9 @@ I saw in flutter a great way of taking advantage of my hardware specific api ski
 
 ## Notes on Dektop Development
 
-Working with mac and windows was something that brought me joy when I was starting in my career; developing with Objective_C (arc) and early day C++ (before managed code became a thing) was very challenging, since you had to work with memory by yourself without any nets 
+Working with both macOS and Windows has been a source of great joy for me since the beginning of my career. Developing in Objective-C (using ARC) and early C++ (prior to the introduction of managed code) was particularly challenging, as it required meticulous manual memory management without the safety nets provided by modern languages.
 
-I also worked with Assembly since I wanted to learn how to create low level funtions before using professional libraries.
-
-eg char manipulation vs String Class (back in the day...)
+I also delved into Assembly programming to understand the creation of low-level functions before relying on professional libraries. For instance, I explored the differences between manipulating characters directly versus using a String class, gaining a deeper appreciation for the intricacies of programming "back in the day."
 
 ### Desktop Development
 

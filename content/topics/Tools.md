@@ -7,10 +7,6 @@ sidebarIcon: box about-me
 
 ---
 
-> Note: The book icon 📖 denotes that im currently researching and its new to me
-{: .prompt-tip }
-
-
 
 ### Planning/Documentation
 
@@ -27,7 +23,6 @@ sidebarIcon: box about-me
 | :----------------- | :--------------- | ------: |------: |
 | Postman         | Advanced     | 5 | ✅ |
 | Git |  |   5 | ✅ |
-| Bitbucket | | 5 |  |
 | Github |  |   5 | ✅ |
 | Sublime |  |   8 | ✅ |
 
@@ -43,4 +38,5 @@ sidebarIcon: box about-me
 | Android Studio |  |   4 | |
 | Bash Scripting |  |   3 |  |
 | Tmux (multiplexer) |  |   3 |  |
+| Bitbucket | | 5 |  |
 

@@ -67,7 +67,7 @@ I invite you to explore further and discover how we can turn innovative ideas in
 
 
 PS 
-This is for developers:
+This is for developers friends that visit this site:
 
 "There is so much more to learn... 
-But pick only the software that gives you joy"
+Never stop tinkering"
