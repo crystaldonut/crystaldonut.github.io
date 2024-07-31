@@ -13,9 +13,9 @@ Some things im working on:
 - Embedded Computing (Pi)
 - OSS Social Networks Implementation (Mastodon,Lemmy)
 - Ansible Experiments with edge systems
-- Non declarative GraphQL
 - Large network management with nginx
 - Playing with GODOT
+- Non declarative GraphQL
 - Kubernetes Experiments
 
 I will most likely create a youtube channel and a more personal specialized website (some people call these blogs 🤣 ) to highlight some of the above experiments since its more fun to show and tell than to just yap about it 😅
