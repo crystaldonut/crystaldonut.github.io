@@ -6,4 +6,10 @@ order: 7
 ---
 
 
-email will be uploaded shortly
+My Email:
+email.irmz@gmail.com
+
+My LinkedIn:
+https://www.linkedin.com/in/megabyter/
+
+
